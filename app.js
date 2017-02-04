@@ -5,6 +5,28 @@ let logger = require('morgan');
 let cookieParser = require('cookie-parser');
 let bodyParser = require('body-parser');
 
+// import "mongoose"
+let mongoose = require("mongoose");
+
+//URI
+let URI = "mongodb://franco:123456@ds040349.mlab.com:40349/videogames";
+
+mongoose.connect(URI,(err) =>{
+  if(err){
+    console.log("Error connecting to mongodb server: " + err);
+  } else{
+    console.log("Connected to mongodb");
+  }
+})
+
+let gameSchema = mongoose.Schema({
+  name: String,
+  rating: Number,
+  cost: Number
+});
+
+let game = mongoose.model('game', gameSchema);
+
 let index = require('./routes/index');
 
 let app = express();
