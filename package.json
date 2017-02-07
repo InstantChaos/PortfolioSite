@@ -1,5 +1,5 @@
 {
-  "name": "assignment1",
+  "name": "portfolio",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -25,7 +25,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InstantChaos/ETechAssignment1.git"
+    "url": "git+https://github.com/InstantChaos/PortfolioSite.git"
   },
   "keywords": [
     "Node.js",
@@ -35,8 +35,8 @@
   "author": "Franco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/InstantChaos/ETechAssignment1/issues"
+    "url": "https://github.com/InstantChaos/PortfolioSite/issues"
   },
-  "homepage": "https://github.com/InstantChaos/ETechAssignment1#readme",
+  "homepage": "https://github.com/InstantChaos/PortfolioSite#readme",
   "description": ""
 }

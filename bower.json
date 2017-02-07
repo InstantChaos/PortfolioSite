@@ -1,5 +1,5 @@
 {
-  "name": "assignment1",
+  "name": "portfolio",
   "description": "portfolio site",
   "main": "server.js",
   "authors": [
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/InstantChaos/ETechAssignment1",
+  "homepage": "https://github.com/InstantChaos/PortfolioSite",
   "private": true,
   "ignore": [
     "**/.*",
