@@ -1,5 +1,5 @@
 {
-  "name": "lesson4",
+  "name": "assignment1",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -25,7 +25,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InstantChaos/Comp308Lesson4.git"
+    "url": "git+https://github.com/InstantChaos/ETechAssignment1.git"
   },
   "keywords": [
     "Node.js",
@@ -35,8 +35,8 @@
   "author": "Franco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/InstantChaos/Comp308Lesson4/issues"
+    "url": "https://github.com/InstantChaos/ETechAssignment1/issues"
   },
-  "homepage": "https://github.com/InstantChaos/Comp308Lesson4#readme",
+  "homepage": "https://github.com/InstantChaos/ETechAssignment1#readme",
   "description": ""
 }

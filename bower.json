@@ -1,6 +1,6 @@
 {
-  "name": "lesson4",
-  "description": "Welcome to lesson 4",
+  "name": "assignment1",
+  "description": "portfolio site",
   "main": "server.js",
   "authors": [
     "Franco"
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/InstantChaos/Comp308Lesson4",
+  "homepage": "https://github.com/InstantChaos/ETechAssignment1",
   "private": true,
   "ignore": [
     "**/.*",
