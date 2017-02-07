@@ -1,2 +1,19 @@
 /* Custom CSS goes here */
-body { padding-bottom: 70px; }
+body { padding-bottom: 70px;
+background-color: black; 
+}
+
+a{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
