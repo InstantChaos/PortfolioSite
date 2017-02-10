@@ -11,6 +11,14 @@ h4{
     color: white;
 }
 
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 70%;
