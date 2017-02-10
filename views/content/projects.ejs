@@ -1,13 +1,37 @@
 <% include ../partials/header.ejs %>
 
-<!--Main section-->
-    <div class="container">
-      <div class="row">
-        <div class="col-md-offset-3 col-md-6"></div>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+  <!--Main section-->
+  <div class="container">
+    <h1>
+      <u>My Projects</u>
+    </h1>
+    <br>
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="Assets/images/platformersample.png" alt="2D Platformer">
+          <div class="caption">
+            <h2>2D platformer game</h2>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="Assets/images/2dshooter.png" alt="2D shooter">
+          <div class="caption">
+            <h2>2D shooter game</h2>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="Assets/images/musicman.PNG" alt="Music List organizer">
+          <div class="caption">
+            <h2>Music list organizer</h2>
+          </div>
         </div>
       </div>
     </div>
+  </div>
 
-<% include ../partials/footer.ejs %>
+  <% include ../partials/footer.ejs %>
