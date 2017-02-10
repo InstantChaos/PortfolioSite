@@ -1,6 +1,7 @@
 /* Custom CSS goes here */
-body { padding-bottom: 70px;
-background-color: black; 
+body { 
+    padding-bottom: 70px;
+    background-image: url("/Assets/images/space2.jpg"); 
 }
 
 a{
