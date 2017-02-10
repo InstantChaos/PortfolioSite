@@ -1,3 +1,10 @@
+/*
+  Filename: app.js
+  Author: Franco Chong
+  Website Name: Franco's Portfolio
+  Description: The backend of the website
+*/
+
 let express = require('express');
 let path = require('path');
 //let favicon = require('serve-favicon');

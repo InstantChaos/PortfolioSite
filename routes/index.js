@@ -1,3 +1,10 @@
+/*
+  Filename: index.js
+  Author: Franco Chong
+  Website Name: Franco's Portfolio
+  Description: the routing for the pages
+*/
+
 let express = require('express');
 let router = express.Router();
 
